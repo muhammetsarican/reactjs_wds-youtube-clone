@@ -1,5 +1,5 @@
 
-# [WDS](https://www.youtube.com/@WebDevSimplified)-Youtube Clone Project
+# ReactJs-Youtube Clone Project
 
 I created a project from [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) channel at youtube. I learned so much thing in that project and I'll use them my next projects. I am grateful to the owner of the channel, Kyle.
 
